@@ -1,0 +1,7 @@
+
+
+## 🚀 Project Review (AI Generated)
+Error calling OpenAI: Error code: 404 - {'error': {'message': 'The model `gpt-4` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+
+---
+
